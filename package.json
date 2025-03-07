@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^5.15.11",
+    "@mui/material": "^5.16.14",
+    "@reduxjs/toolkit": "^2.6.0",
+    "@stripe/react-stripe-js": "^3.3.0",
+    "@stripe/stripe-js": "^5.10.0",
+    "axios": "^1.8.2",
+    "firebase": "^11.4.0",
+    "gh-pages": "^6.3.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.3.0"
+  }
+}
